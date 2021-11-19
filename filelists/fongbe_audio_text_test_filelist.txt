@@ -1,0 +1,76 @@
+wavs/davacan_fongbe_corp011_001.wav|un na ye sin 
+wavs/davacan_fongbe_corp011_002.wav|gbogbo e mi ɖɔ xo nε ɔ un sɔ mɔ ε gbeɖe a 
+wavs/davacan_fongbe_corp011_003.wav|un glo e 
+wavs/davacan_fongbe_corp011_004.wav|wutu tɔn sun glo 
+wavs/davacan_fongbe_corp011_005.wav|e gba gbe ala bi 
+wavs/davacan_fongbe_corp011_006.wav|afɔdomε ce gbidi 
+wavs/davacan_fongbe_corp011_007.wav|dawe elɔ ɖi ga kaka 
+wavs/davacan_fongbe_corp011_008.wav|e hεn do ɔ gblo 
+wavs/davacan_fongbe_corp011_009.wav|gblo ali nε ɔ 
+wavs/davacan_fongbe_corp011_010.wav|nusunnu ɔ ci gbεdε 
+wavs/davacan_fongbe_corp011_011.wav|ze gbe yi ji 
+wavs/davacan_fongbe_corp011_012.wav|ye ɖo gan yɔyɔ na ɖo wε 
+wavs/davacan_fongbe_corp011_013.wav|xo ɔ gɔndɔn do mi 
+wavs/davacan_fongbe_corp011_014.wav|e kplε yi kpo ka kpo go kpo 
+wavs/davacan_fongbe_corp011_015.wav|e tiin ɖazɔmε a 
+wavs/davacan_fongbe_corp011_016.wav|a ko se a wε a 
+wavs/davacan_fongbe_corp011_017.wav|e ko mɔ ε a 
+wavs/davacan_fongbe_corp011_018.wav|un ko ɖu nu a 
+wavs/davacan_fongbe_corp011_019.wav|gudunɔ damlɔ bo fɔn bo mɔ to ɖo zan ji aɖawun ɖazɔnsi 
+wavs/davacan_fongbe_corp011_020.wav|mε ɖebu sin xomε a 
+wavs/davacan_fongbe_corp011_021.wav|vi towe lε lo 
+wavs/davacan_fongbe_corp011_022.wav|dada ce gba go 
+wavs/davacan_fongbe_corp011_023.wav|e glɔn gbɔ tɔn lε do kpa mε 
+wavs/davacan_fongbe_corp011_024.wav|akpa tε xwe e hɔn jε gbe do 
+wavs/davacan_fongbe_corp011_025.wav|e ji gbɔn to 
+wavs/davacan_fongbe_corp011_026.wav|vi tɔn ku wε zɔn bɔ e lε ji vi ɖevo 
+wavs/davacan_fongbe_corp011_027.wav|fun kɔ sin nukun ce ji nu mi 
+wavs/davacan_fongbe_corp011_028.wav|e ɖo anɔ gbanjangbanjan 
+wavs/davacan_fongbe_corp011_029.wav|nya bonɔ elɔ ɖo afɔ gεjεgεjε
+wavs/davacan_fongbe_corp011_030.wav|maga su kpɔ gbεgbε ɖaxi mε 
+wavs/davacan_fongbe_corp011_031.wav|e ɖo avi ya wε ɖo gbεmε 
+wavs/davacan_fongbe_corp011_032.wav|yovozεn ɔ klo kaka bo ci gbawun 
+wavs/davacan_fongbe_corp011_033.wav|ye zan nu ɖo nuwiwa ɔ do mε kaka bɔ e gbe lu
+wavs/davacan_fongbe_corp011_034.wav|gbe tɔn xla 
+wavs/davacan_fongbe_corp011_035.wav|kɔta we nɔ nɔ kpɔ a ɖe na nyi kɔta ɖe na nyi gbakwεgbakwε 
+wavs/davacan_fongbe_corp011_036.wav|gbεtɔ ɖo gbagba ɖo hun ɔ mε 
+wavs/davacan_fongbe_corp011_037.wav|a nɔ mɔ ε gbɔ a 
+wavs/davacan_fongbe_corp011_038.wav|ye klan gbe 
+wavs/davacan_fongbe_corp011_039.wav|un se mɔto towe gbe 
+wavs/davacan_fongbe_corp011_040.wav|un se xo towe 
+wavs/davacan_fongbe_corp011_041.wav|e gblɔn xo ɔ nu mi 
+wavs/davacan_fongbe_corp011_042.wav|mi byɔ xwegbe 
+wavs/davacan_fongbe_corp011_043.wav|gle ɔ su gbe 
+wavs/davacan_fongbe_corp011_044.wav|gbehan su gle ɔ 
+wavs/davacan_fongbe_corp011_045.wav|sin ɔ gba gbe 
+wavs/davacan_fongbe_corp011_046.wav|tɔ ɔ gba jinukun lε bi 
+wavs/davacan_fongbe_corp011_047.wav|un na sε wema elɔ do nɔvi ce gbɔn posu 
+wavs/davacan_fongbe_corp011_048.wav|e ɖo ganbaɖa nu mi 
+wavs/davacan_fongbe_corp011_049.wav|zingidi gεyin wε 
+wavs/davacan_fongbe_corp011_050.wav|nu gεyingεyin 
+wavs/davacan_fongbe_corp011_051.wav|akwε e ɖasi ce ɔ bi vɔ gbidigbidi 
+wavs/davacan_fongbe_corp011_052.wav|azɔn gbε do mi 
+wavs/davacan_fongbe_corp011_053.wav|e ɖo geɖee 
+wavs/davacan_fongbe_corp011_054.wav|e nyi gεn 
+wavs/davacan_fongbe_corp011_055.wav|e dan hun gbɔn fi 
+wavs/davacan_fongbe_corp011_056.wav|nɔcyɔvi ɔ nɔ sa lele 
+wavs/davacan_fongbe_corp011_057.wav|hwε lo 
+wavs/davacan_fongbe_corp011_058.wav|e wa lobo ɖu nu 
+wavs/davacan_fongbe_corp011_059.wav|un wa bε yi 
+wavs/davacan_fongbe_corp011_060.wav|e jε gle ɖo fi ε 
+wavs/davacan_fongbe_corp011_061.wav|nu ci kɔ ni bɔ e ganja 
+wavs/davacan_fongbe_corp011_062.wav|e gan jε azinkpo mε
+wavs/davacan_fongbe_corp011_063.wav|jonɔ wε 
+wavs/davacan_fongbe_corp011_064.wav|dosu wun sin nu jonɔ 
+wavs/davacan_fongbe_corp011_065.wav|gla se a 
+wavs/davacan_fongbe_corp011_066.wav|mi gla 
+wavs/davacan_fongbe_corp011_067.wav|nyε we 
+wavs/davacan_fongbe_corp011_068.wav|ye ɖo fi 
+wavs/davacan_fongbe_corp011_069.wav|wemaxɔmεvi wε nu mi 
+wavs/davacan_fongbe_corp011_070.wav|nutε hwε a nɔ kplɔn ɖo wemaxɔmε 
+wavs/davacan_fongbe_corp011_071.wav|ye wε ɖu we 
+wavs/davacan_fongbe_corp011_072.wav|e sɔgbe gbannana 
+wavs/davacan_fongbe_corp011_073.wav|towe gbε 
+wavs/davacan_fongbe_corp011_074.wav|mi gbeje xo ɔ kpɔn ganji 
+wavs/davacan_fongbe_corp011_075.wav|hwezivɔ gbε 
+wavs/davacan_fongbe_corp011_076.wav|e gba jε mε nu xo ɔ ganji a 
